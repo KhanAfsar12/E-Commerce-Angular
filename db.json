@@ -1,0 +1,133 @@
+{
+  "seller": [
+    {
+      "name": "Afsar",
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Ashfaque",
+      "email": "ashfaque4@gmail.com",
+      "password": "42834i70",
+      "id": 2
+    },
+    {
+      "name": "khalid",
+      "password": "khalid@123",
+      "email": "khalid123@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "Afsar",
+      "id": 4
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "1233asxw",
+      "id": 5
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "1223243ffv",
+      "id": 6
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "wd278i",
+      "id": 8
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "icjmw09d",
+      "id": 10
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "asx",
+      "id": 11
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "12345678",
+      "id": 13
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 14
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 15
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 18
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 19
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 20
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 21
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 22
+    },
+    {
+      "email": "ka484564@gmail.com",
+      "password": "123456",
+      "id": 23
+    }
+  ],
+  "products": [
+    {
+      "name": "Galaxy S24 Ultra",
+      "price": "30000",
+      "color": "Yellow",
+      "category": "Mobile",
+      "description": "Good Product",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705640288/Croma%20Assets/Communication/Mobiles/Images/303838_oqpio4.png?tr=w-480",
+      "id": 2
+    }
+  ]
+}
