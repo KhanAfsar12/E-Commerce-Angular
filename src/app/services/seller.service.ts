@@ -16,16 +16,14 @@ export class SellerService {
     data,
     {observe:'response'}).subscribe((result)=>{
       console.warn(result)
-      if(result){
         localStorage.setItem('seller',JSON.stringify(result.body))
         this.router.navigate(['seller-home'])
-      }
     })
   } 
   reloadSeller(){
     if(localStorage.getItem('seller')){
       this.isSellerLoggedIn.next(true)
-      this.router.navigate(['seller-auth'])
+      this.router.navigate(['seller-home'])
     }
   }
   userLogin(data: login) {
